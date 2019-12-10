@@ -4,7 +4,7 @@ class Application
 
     current_time = Time.now
 
-    if Time.now < '12:00'
+    current_time
 
 
   end
