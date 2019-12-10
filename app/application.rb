@@ -3,7 +3,7 @@ class Application
   def call(env)
     resp = Rack::Response.new
 
-    current_time
+    current_time = Time.hour
 
   end
 
