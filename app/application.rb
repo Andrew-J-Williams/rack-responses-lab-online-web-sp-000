@@ -2,7 +2,7 @@ class Application
 
   def call(env)
 
-    if Time.now == '12:00'
+    if Time.now < '12:00'
 
   end
 
