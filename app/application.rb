@@ -2,7 +2,7 @@ class Application
 
   def call(env)
 
-    if Time.now.to_i
+    if Time.now == 
 
   end
 
