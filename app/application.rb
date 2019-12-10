@@ -5,6 +5,8 @@ class Application
 
     current_time = Time.hour
 
+    if current_time
+
   end
 
 
